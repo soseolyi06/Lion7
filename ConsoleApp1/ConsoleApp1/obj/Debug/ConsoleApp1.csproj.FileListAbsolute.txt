@@ -1,0 +1,8 @@
+D:\mut sa unity\lion 7 code\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\mut sa unity\lion 7 code\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\mut sa unity\lion 7 code\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\mut sa unity\lion 7 code\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\mut sa unity\lion 7 code\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\mut sa unity\lion 7 code\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\mut sa unity\lion 7 code\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\mut sa unity\lion 7 code\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
